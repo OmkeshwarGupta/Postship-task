@@ -4,7 +4,7 @@ import { IoMdInformationCircleOutline } from "react-icons/io";
 
 const WelcomeSection = () => {
   return (
-    <div className="bg-[#fffdfa] flex justify-center items-center pb-16 pt-9">
+    <div className="bg-[#fffdfa] flex justify-center items-center pb-16 pt-16">
       <div className="w-[1281px] px-20 ">
         <h2 className="text-2xl font-bold py-10 text-[#4A4A4A]">
           Welcome, John Mathew!!
